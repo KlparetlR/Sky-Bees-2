@@ -1,0 +1,38 @@
+{
+  "flower": "ALL",
+  "creator": "SehrFeineKatze",
+  "lore": "看起来像最好的神奇宝贝",
+  "baseLayerTexture":"craftable/fishi_bee",
+  "hasHoneycomb": true,
+  "traits":["can_swim"],
+  "maxTimeInHive": 600,
+  "ColorData": {
+      "honeycombColor":"#FF6A00",
+      "isBeeColored": false,
+      "modelType": "ORE"
+  },
+  "MutationData": {
+      "hasMutation": true,
+      "mutationType": "BLOCK_TO_ITEM",
+      "mutationInput": "minecraft:prismarine",
+      "mutationOutput": "resourcefulbees:prismarine_bee_spawn_egg",
+      "mutationCount": 1
+  },
+  "CentrifugeData": {
+        "hasCentrifugeOutput": true,
+        "mainOutput": "minecraft:salmon",
+        "secondaryOutput": "minecraft:diamond",
+        "mainOutputCount":1,
+        "secondaryOutputCount":1,
+        "secondaryOutputWeight":0.01
+  },
+  "SpawnData": {
+    "canSpawnInWorld": false
+  },
+  "BreedData": {
+    "isBreedable": false
+  },
+  "TraitData": {
+    "hasTraits": true
+  }
+}

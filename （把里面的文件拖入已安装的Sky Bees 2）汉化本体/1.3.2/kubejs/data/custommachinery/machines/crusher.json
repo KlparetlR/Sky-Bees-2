@@ -1,0 +1,126 @@
+{
+  "name": "破碎机",
+  "appearance": {
+    "lightmode": "running",
+    "lightlevel": 7,
+    "block": "kubejs:machine/crusher"
+  },
+  "components": [
+    {
+      "mode": "input",
+      "id": "input1",
+      "type": "custommachinery:item"
+     },
+    {
+      "mode": "output",
+      "id": "output1",
+      "type": "custommachinery:item"
+    },
+	{
+      "mode": "output",
+      "id": "output2",
+      "type": "custommachinery:item"
+    },
+	{
+      "mode": "output",
+      "id": "output3",
+      "type": "custommachinery:item"
+    },
+	{
+      "mode": "output",
+      "id": "output4",
+      "type": "custommachinery:item"
+    },
+	{
+      "mode": "output",
+      "id": "output5",
+      "type": "custommachinery:item"
+    },
+	{
+      "mode": "output",
+      "id": "output6",
+      "type": "custommachinery:item"
+    },
+	{
+	  "type": "custommachinery:redstone",
+	  "power": 1
+	}
+  ],
+  "gui": [
+	{
+      "texture": "custommachinery:textures/gui/base_background.png",
+      "x": 38,
+      "y": 0,
+	  "width": 180,
+      "type": "custommachinery:texture"
+    },
+	{
+	  "id": "input1",
+      "x": 80,
+      "y": 37,
+      "type": "custommachinery:slot"
+    },
+    {
+      "x": 47,
+      "y": 85,
+      "type": "custommachinery:player_inventory"
+    },
+	{
+	  "type": "custommachinery:reset",
+      "x": 166,
+      "y": 7
+    },
+    {
+      "id": "output1",
+      "x": 150,
+      "y": 27,
+      "type": "custommachinery:slot"
+    },
+	{
+      "id": "output2",
+      "x": 170,
+      "y": 27,
+      "type": "custommachinery:slot"
+    },
+	{
+      "id": "output3",
+      "x": 190,
+      "y": 27,
+      "type": "custommachinery:slot"
+    },
+	{
+      "id": "output4",
+      "x": 150,
+      "y": 47,
+      "type": "custommachinery:slot"
+    },
+	{
+      "id": "output5",
+      "x": 170,
+      "y": 47,
+      "type": "custommachinery:slot"
+    },
+	{
+      "id": "output6",
+      "x": 190,
+      "y": 47,
+      "type": "custommachinery:slot"
+    },
+    {
+      "x": 117,
+      "y": 37,
+      "type": "custommachinery:progress"
+    },
+    {
+      "x": 200,
+      "y": 5,
+      "type": "custommachinery:status"
+    },
+	{
+      "text": "Crusher",
+      "x": 43,
+      "y": 7,
+      "type": "custommachinery:text"
+    }
+  ]
+}

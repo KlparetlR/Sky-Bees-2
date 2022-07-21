@@ -1,0 +1,61 @@
+{
+  "flower": "extendedcrafting:ender_alternator",
+  "creator": "Blizzor",
+  "lore": "这不重要。是吗？",
+  "baseLayerTexture":"craftable/matter_bee",
+  "hasHoneycomb": true,
+  "sizeModifier": 0.75,
+  "traits":["ender"],
+  "maxTimeInHive": 2400,
+  "ColorData": {
+    "isBeeColored": false,
+    "honeycombColor": "#3100ff"
+  },
+  "CombatData": {
+        "removeStingerOnAttack": true,
+        "attackDamage": 100
+    },
+  "MutationData": {
+    "hasMutation": true,
+    "mutations" : [
+	{
+	  "type": "BLOCK_TO_BLOCK",
+      "inputID": "appliedenergistics2:molecular_assembler",
+	  "chance":1,
+      "outputs":
+	  [
+        {"outputID": "tesseract:tesseract"}
+      ]
+	},
+	{
+      "type": "BLOCK_TO_ITEM",
+      "inputID": "tesseract:tesseract",
+	  "chance":0.1,
+      "outputs":
+	  [
+	    {"outputID": "appliedenergistics2:singularity"}
+
+	  ]
+	}
+	],
+	"mutationCount": 1
+  },
+  "CentrifugeData": {
+    "hasCentrifugeOutput": true,
+    "mainOutput": "extendedcrafting:enhanced_ender_ingot",
+    "secondaryOutput": "appliedenergistics2:singularity",
+    "mainOutputCount":1,
+	"mainOutputWeight":0.25,
+    "secondaryOutputCount":1,
+    "secondaryOutputWeight":0.001
+  },
+  "SpawnData": {
+    "canSpawnInWorld": false
+  },
+  "BreedData": {
+    "isBreedable": false
+  },
+  "TraitData": {
+    "hasTraits": true
+  }
+}
