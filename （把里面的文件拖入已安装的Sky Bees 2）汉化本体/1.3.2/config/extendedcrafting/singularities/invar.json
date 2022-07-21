@@ -1,0 +1,11 @@
+{
+  "name": "因瓦",
+  "colors": [
+    "929d97",
+    "929d97"
+  ],
+  "ingredient": {
+    "tag": "forge:storage_blocks/invar"
+  },
+  "inUltimateSingularity": true
+}

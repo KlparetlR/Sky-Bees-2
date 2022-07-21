@@ -1,0 +1,11 @@
+{
+  "name": "钢",
+  "colors": [
+    "565656",
+    "565656"
+  ],
+  "ingredient": {
+    "tag": "forge:storage_blocks/steel"
+  },
+  "inUltimateSingularity": true
+}

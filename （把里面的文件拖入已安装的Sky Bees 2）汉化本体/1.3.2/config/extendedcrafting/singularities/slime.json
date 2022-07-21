@@ -1,0 +1,11 @@
+{
+  "name": "史莱姆",
+  "colors": [
+    "58814D",
+    "618758"
+  ],
+  "ingredient": {
+    "item": "minecraft:slime_block"
+  },
+  "inUltimateSingularity": true
+}

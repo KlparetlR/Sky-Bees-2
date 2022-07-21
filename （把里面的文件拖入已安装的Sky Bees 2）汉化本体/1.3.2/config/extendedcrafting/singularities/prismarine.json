@@ -1,0 +1,11 @@
+{
+  "name": "海晶石",
+  "colors": [
+    "3E7870",
+    "668E88"
+  ],
+  "ingredient": {
+    "item": "minecraft:prismarine_bricks"
+  },
+  "inUltimateSingularity": true
+}

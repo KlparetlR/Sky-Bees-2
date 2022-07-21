@@ -1,0 +1,11 @@
+{
+  "name": "下届",
+  "colors": [
+    "5A4B4F",
+    "AAA1A1"
+  ],
+  "ingredient": {
+    "tag": "forge:storage_blocks/niter"
+  },
+  "inUltimateSingularity": true
+}

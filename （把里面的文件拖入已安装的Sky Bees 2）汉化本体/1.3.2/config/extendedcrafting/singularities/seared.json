@@ -1,0 +1,11 @@
+{
+  "name": "焦黑",
+  "colors": [
+    "363331",
+    "494642"
+  ],
+  "ingredient": {
+    "tag": "tconstruct:seared_bricks"
+  },
+  "inUltimateSingularity": true
+}

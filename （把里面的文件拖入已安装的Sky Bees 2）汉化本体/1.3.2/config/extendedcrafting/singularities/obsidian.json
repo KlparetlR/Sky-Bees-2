@@ -1,0 +1,11 @@
+{
+  "name": "黑曜石",
+  "colors": [
+    "281B3A",
+    "36244D"
+  ],
+  "ingredient": {
+    "tag": "forge:obsidian"
+  },
+  "inUltimateSingularity": true
+}

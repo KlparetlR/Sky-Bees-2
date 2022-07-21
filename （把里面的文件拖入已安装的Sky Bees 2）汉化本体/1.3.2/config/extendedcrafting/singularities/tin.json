@@ -1,0 +1,11 @@
+{
+  "name": "锡",
+  "colors": [
+    "7690a5",
+    "7690a5"
+  ],
+  "ingredient": {
+    "tag": "forge:storage_blocks/tin"
+  },
+  "inUltimateSingularity": true
+}

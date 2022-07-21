@@ -1,0 +1,11 @@
+{
+  "name": "觉醒龙",
+  "colors": [
+    "BF460C",
+    "9C915E"
+  ],
+  "ingredient": {
+    "tag": "forge:storage_blocks/draconium_awakened"
+  },
+  "inUltimateSingularity": true
+}

@@ -1,0 +1,11 @@
+{
+  "name": "紫颂",
+  "colors": [
+    "764C76",
+    "8D638D"
+  ],
+  "ingredient": {
+    "item": "minecraft:popped_chorus_fruit"
+  },
+  "inUltimateSingularity": true
+}

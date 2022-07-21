@@ -1,0 +1,11 @@
+{
+  "name": "黏钢",
+  "colors": [
+    "63AEAA",
+    "719896"
+  ],
+  "ingredient": {
+    "tag": "forge:storage_blocks/slimesteel"
+  },
+  "inUltimateSingularity": true
+}

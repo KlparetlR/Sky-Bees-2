@@ -1,0 +1,11 @@
+{
+  "name": "潮涌核心",
+  "colors": [
+    "A47C62",
+    "584E38"
+  ],
+  "ingredient": {
+    "item": "minecraft:conduit"
+  },
+  "inUltimateSingularity": true
+}

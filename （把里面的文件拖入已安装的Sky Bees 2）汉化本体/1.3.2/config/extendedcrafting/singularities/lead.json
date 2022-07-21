@@ -1,0 +1,11 @@
+{
+  "name": "铅",
+  "colors": [
+    "484f67",
+    "484f67"
+  ],
+  "ingredient": {
+    "tag": "forge:storage_blocks/lead"
+  },
+  "inUltimateSingularity": true
+}

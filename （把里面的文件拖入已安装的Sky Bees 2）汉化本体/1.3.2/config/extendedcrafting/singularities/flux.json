@@ -1,0 +1,11 @@
+{
+  "name": "通量",
+  "colors": [
+    "070707",
+    "2A2A2A"
+  ],
+  "ingredient": {
+    "item": "fluxnetworks:flux_dust"
+  },
+  "inUltimateSingularity": true
+}

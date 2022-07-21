@@ -1,0 +1,11 @@
+{
+  "name": "下界石英",
+  "colors": [
+    "A6A4A2",
+    "A09B95"
+  ],
+  "ingredient": {
+    "item": "minecraft:quartz_block"
+  },
+  "inUltimateSingularity": true
+}

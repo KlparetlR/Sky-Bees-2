@@ -1,0 +1,11 @@
+{
+  "name": "赛特斯石英",
+  "colors": [
+    "93B2D1",
+    "ABC8E4"
+  ],
+  "ingredient": {
+    "item": "appliedenergistics2:quartz_block"
+  },
+  "inUltimateSingularity": true
+}

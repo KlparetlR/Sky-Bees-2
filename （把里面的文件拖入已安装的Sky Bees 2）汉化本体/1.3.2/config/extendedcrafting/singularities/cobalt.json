@@ -1,0 +1,11 @@
+{
+  "name": "钴",
+  "colors": [
+    "002E71",
+    "2F82D6"
+  ],
+  "ingredient": {
+    "tag": "forge:storage_blocks/cobalt"
+  },
+  "inUltimateSingularity": true
+}

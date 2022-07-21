@@ -1,0 +1,11 @@
+{
+  "name": "绿宝石",
+  "colors": [
+    "41f384",
+    "aa2c"
+  ],
+  "ingredient": {
+    "tag": "forge:storage_blocks/emerald"
+  },
+  "inUltimateSingularity": true
+}

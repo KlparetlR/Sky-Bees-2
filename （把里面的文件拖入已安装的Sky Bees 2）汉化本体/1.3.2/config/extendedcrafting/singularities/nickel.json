@@ -1,0 +1,11 @@
+{
+  "name": "镍",
+  "colors": [
+    "beb482",
+    "beb482"
+  ],
+  "ingredient": {
+    "tag": "forge:storage_blocks/nickel"
+  },
+  "inUltimateSingularity": true
+}

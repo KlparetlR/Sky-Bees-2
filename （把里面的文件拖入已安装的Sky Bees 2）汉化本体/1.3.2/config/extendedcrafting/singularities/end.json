@@ -1,0 +1,11 @@
+{
+  "name": "末地",
+  "colors": [
+    "C2C787",
+    "A3A97B"
+  ],
+  "ingredient": {
+    "item": "minecraft:end_stone"
+  },
+  "inUltimateSingularity": true
+}

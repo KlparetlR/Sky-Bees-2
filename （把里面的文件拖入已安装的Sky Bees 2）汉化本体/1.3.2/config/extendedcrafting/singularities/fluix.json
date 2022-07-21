@@ -1,0 +1,11 @@
+{
+  "name": "福鲁伊克斯",
+  "colors": [
+    "403370",
+    "583C7E"
+  ],
+  "ingredient": {
+    "item": "appliedenergistics2:fluix_block"
+  },
+  "inUltimateSingularity": true
+}

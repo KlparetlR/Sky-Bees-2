@@ -1,0 +1,11 @@
+{
+  "name": "源质钢",
+  "colors": [
+    "813A90",
+    "9B42AE"
+  ],
+  "ingredient": {
+    "tag": "forge:storage_blocks/elementium"
+  },
+  "inUltimateSingularity": true
+}

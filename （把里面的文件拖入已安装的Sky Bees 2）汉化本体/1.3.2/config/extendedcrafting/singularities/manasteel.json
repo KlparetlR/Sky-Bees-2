@@ -1,0 +1,11 @@
+{
+  "name": "魔力钢",
+  "colors": [
+    "26567D",
+    "377AAF"
+  ],
+  "ingredient": {
+    "tag": "forge:storage_blocks/manasteel"
+  },
+  "inUltimateSingularity": true
+}

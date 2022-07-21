@@ -1,0 +1,11 @@
+{
+  "name": "玛玉灵",
+  "colors": [
+    "4D2D76",
+    "64428C"
+  ],
+  "ingredient": {
+    "tag": "forge:storage_blocks/manyullyn"
+  },
+  "inUltimateSingularity": true
+}

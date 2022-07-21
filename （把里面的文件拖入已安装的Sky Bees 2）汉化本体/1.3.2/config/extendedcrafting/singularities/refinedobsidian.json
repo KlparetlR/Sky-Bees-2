@@ -1,0 +1,11 @@
+{
+  "name": "强化黑曜石",
+  "colors": [
+    "22192F",
+    "342C45"
+  ],
+  "ingredient": {
+    "tag": "forge:storage_blocks/refined_obsidian"
+  },
+  "inUltimateSingularity": true
+}

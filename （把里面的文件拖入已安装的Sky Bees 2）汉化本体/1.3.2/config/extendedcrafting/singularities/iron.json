@@ -1,0 +1,11 @@
+{
+  "name": "铁",
+  "colors": [
+    "d8d8d8",
+    "a8a8a8"
+  ],
+  "ingredient": {
+    "item": "minecraft:iron_block"
+  },
+  "inUltimateSingularity": true
+}

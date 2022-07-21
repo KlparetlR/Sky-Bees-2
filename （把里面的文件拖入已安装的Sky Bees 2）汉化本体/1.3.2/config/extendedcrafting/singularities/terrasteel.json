@@ -1,0 +1,11 @@
+{
+  "name": "泰拉钢",
+  "colors": [
+    "246E0C",
+    "47A429"
+  ],
+  "ingredient": {
+    "tag": "forge:storage_blocks/terrasteel"
+  },
+  "inUltimateSingularity": true
+}

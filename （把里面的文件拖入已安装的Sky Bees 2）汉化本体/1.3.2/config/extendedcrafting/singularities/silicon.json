@@ -1,0 +1,11 @@
+{
+  "name": "硅",
+  "colors": [
+    "645C5F",
+    "726B6E"
+  ],
+  "ingredient": {
+    "item": "appliedenergistics2:silicon"
+  },
+  "inUltimateSingularity": true
+}

@@ -1,0 +1,11 @@
+{
+  "name": "锂",
+  "colors": [
+    "AB9B8F",
+    "D3C8C1"
+  ],
+  "ingredient": {
+    "item": "mekanism:dust_lithium"
+  },
+  "inUltimateSingularity": true
+}

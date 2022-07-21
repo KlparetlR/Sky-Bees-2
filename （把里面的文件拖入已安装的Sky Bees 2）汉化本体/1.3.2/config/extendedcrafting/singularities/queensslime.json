@@ -1,0 +1,11 @@
+{
+  "name": "粘液女王",
+  "colors": [
+    "2A7737",
+    "846E12"
+  ],
+  "ingredient": {
+    "tag": "forge:storage_blocks/queens_slime"
+  },
+  "inUltimateSingularity": true
+}

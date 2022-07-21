@@ -1,0 +1,11 @@
+{
+  "name": "生铁",
+  "colors": [
+    "895659",
+    "A47370"
+  ],
+  "ingredient": {
+    "tag": "forge:storage_blocks/pig_iron"
+  },
+  "inUltimateSingularity": true
+}

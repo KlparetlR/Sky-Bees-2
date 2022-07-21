@@ -1,0 +1,11 @@
+{
+  "name": "末影",
+  "colors": [
+    "062042",
+    "145660"
+  ],
+  "ingredient": {
+    "tag": "forge:storage_blocks/enderium"
+  },
+  "inUltimateSingularity": true
+}

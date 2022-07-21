@@ -1,0 +1,11 @@
+{
+  "name": "骨头",
+  "colors": [
+    "B2AE93",
+    "A09E91"
+  ],
+  "ingredient": {
+    "item": "minecraft:bone_block"
+  },
+  "inUltimateSingularity": true
+}

@@ -1,0 +1,11 @@
+{
+  "name": "羊毛",
+  "colors": [
+    "E4E5E5",
+    "919595"
+  ],
+  "ingredient": {
+    "item": "minecraft:white_wool"
+  },
+  "inUltimateSingularity": true
+}

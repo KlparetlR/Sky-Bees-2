@@ -1,0 +1,11 @@
+{
+  "name": "信素",
+  "colors": [
+    "9A1A01",
+    "AC420E"
+  ],
+  "ingredient": {
+    "tag": "forge:storage_blocks/signalum"
+  },
+  "inUltimateSingularity": true
+}

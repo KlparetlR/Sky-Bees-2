@@ -1,0 +1,11 @@
+{
+  "name": "红石",
+  "colors": [
+    "aa0f01",
+    "720000"
+  ],
+  "ingredient": {
+    "tag": "forge:storage_blocks/redstone"
+  },
+  "inUltimateSingularity": true
+}

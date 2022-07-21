@@ -1,0 +1,11 @@
+{
+  "name": "强化荧石块",
+  "colors": [
+    "A88D19",
+    "AD931B"
+  ],
+  "ingredient": {
+    "tag": "forge:storage_blocks/refined_glowstone"
+  },
+  "inUltimateSingularity": true
+}

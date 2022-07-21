@@ -1,0 +1,11 @@
+{
+  "name": "琥珀金",
+  "colors": [
+    "a79135",
+    "a79135"
+  ],
+  "ingredient": {
+    "tag": "forge:storage_blocks/electrum"
+  },
+  "inUltimateSingularity": true
+}

@@ -1,0 +1,11 @@
+{
+  "name": "绝缘覆层",
+  "colors": [
+    "090909",
+    "222222"
+  ],
+  "ingredient": {
+    "item": "powah:dielectric_paste"
+  },
+  "inUltimateSingularity": true
+}

@@ -1,0 +1,11 @@
+{
+  "name": "金",
+  "colors": [
+    "AFA236",
+    "AF942A"
+  ],
+  "ingredient": {
+    "tag": "forge:storage_blocks/gold"
+  },
+  "inUltimateSingularity": true
+}

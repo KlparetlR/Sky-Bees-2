@@ -1,0 +1,11 @@
+{
+  "name": "荧石",
+  "colors": [
+    "ffbc5e",
+    "b47140"
+  ],
+  "ingredient": {
+    "item": "minecraft:glowstone"
+  },
+  "inUltimateSingularity": true
+}

@@ -1,0 +1,11 @@
+{
+  "name": "狂风",
+  "colors": [
+    "E6EAF0",
+    "D1C46F"
+  ],
+  "ingredient": {
+    "item": "thermal:blitz_rod"
+  },
+  "inUltimateSingularity": true
+}

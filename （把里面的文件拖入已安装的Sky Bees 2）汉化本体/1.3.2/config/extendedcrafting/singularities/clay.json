@@ -1,0 +1,11 @@
+{
+  "name": "粘土",
+  "colors": [
+    "6A707B",
+    "A0A9C3"
+  ],
+  "ingredient": {
+    "item": "minecraft:clay"
+  },
+  "inUltimateSingularity": true
+}

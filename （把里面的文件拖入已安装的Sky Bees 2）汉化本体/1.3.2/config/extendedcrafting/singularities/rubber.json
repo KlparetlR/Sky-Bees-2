@@ -1,0 +1,11 @@
+{
+  "name": "橡胶",
+  "colors": [
+    "6B5E45",
+    "867C65"
+  ],
+  "ingredient": {
+    "item": "thermal:rubber_block"
+  },
+  "inUltimateSingularity": true
+}

@@ -1,0 +1,11 @@
+{
+  "name": "末影珍珠",
+  "colors": [
+    "032620",
+    "0B4C41"
+  ],
+  "ingredient": {
+    "tag": "forge:ender_pearls"
+  },
+  "inUltimateSingularity": true
+}

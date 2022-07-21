@@ -1,0 +1,11 @@
+{
+  "name": "磷灰石",
+  "colors": [
+    "165588",
+    "1F8A8B"
+  ],
+  "ingredient": {
+    "tag": "forge:storage_blocks/apatite"
+  },
+  "inUltimateSingularity": true
+}

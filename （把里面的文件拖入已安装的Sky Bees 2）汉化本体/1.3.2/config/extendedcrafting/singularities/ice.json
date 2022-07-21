@@ -1,0 +1,11 @@
+{
+  "name": "冰",
+  "colors": [
+    "687CA5",
+    "7687A6"
+  ],
+  "ingredient": {
+    "tag": "forge:ices/ice"
+  },
+  "inUltimateSingularity": true
+}

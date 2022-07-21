@@ -1,0 +1,11 @@
+{
+  "name": "玫瑰金",
+  "colors": [
+    "9F7B6E",
+    "AF9E96"
+  ],
+  "ingredient": {
+    "tag": "forge:storage_blocks/rose_gold"
+  },
+  "inUltimateSingularity": true
+}

@@ -1,0 +1,11 @@
+{
+  "name": "烈焰",
+  "colors": [
+    "7F3600",
+    "AFA953"
+  ],
+  "ingredient": {
+    "item": "botania:blaze_block"
+  },
+  "inUltimateSingularity": true
+}

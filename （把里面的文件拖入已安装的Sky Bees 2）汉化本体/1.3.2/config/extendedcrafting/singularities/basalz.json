@@ -1,0 +1,11 @@
+{
+  "name": "岩石",
+  "colors": [
+    "4E5157",
+    "E71C02"
+  ],
+  "ingredient": {
+    "item": "thermal:basalz_rod"
+  },
+  "inUltimateSingularity": true
+}

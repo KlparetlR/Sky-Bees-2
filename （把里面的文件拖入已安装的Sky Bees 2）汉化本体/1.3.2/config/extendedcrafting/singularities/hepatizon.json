@@ -1,0 +1,11 @@
+{
+  "name": "魂晶",
+  "colors": [
+    "26172E",
+    "56465D"
+  ],
+  "ingredient": {
+    "tag": "forge:storage_blocks/hepatizon"
+  },
+  "inUltimateSingularity": true
+}

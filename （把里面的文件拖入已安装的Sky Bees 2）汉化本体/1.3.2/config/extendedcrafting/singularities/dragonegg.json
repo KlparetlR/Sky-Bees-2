@@ -1,0 +1,11 @@
+{
+  "name": "龙蛋",
+  "colors": [
+    "07070B",
+    "29012F"
+  ],
+  "ingredient": {
+    "item": "minecraft:dragon_egg"
+  },
+  "inUltimateSingularity": true
+}

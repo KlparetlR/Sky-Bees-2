@@ -1,0 +1,11 @@
+{
+  "name": "氟石",
+  "colors": [
+    "9AABA2",
+    "A2ADA7"
+  ],
+  "ingredient": {
+    "tag": "forge:storage_blocks/fluorite"
+  },
+  "inUltimateSingularity": true
+}

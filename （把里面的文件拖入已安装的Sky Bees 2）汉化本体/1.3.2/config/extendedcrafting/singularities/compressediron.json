@@ -1,0 +1,11 @@
+{
+  "name": "压缩铁",
+  "colors": [
+    "165588",
+    "1F8A8B"
+  ],
+  "ingredient": {
+    "tag": "forge:storage_blocks/compressed_iron"
+  },
+  "inUltimateSingularity": true
+}

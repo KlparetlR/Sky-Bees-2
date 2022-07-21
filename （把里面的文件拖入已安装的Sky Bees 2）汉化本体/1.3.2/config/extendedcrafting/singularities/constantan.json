@@ -1,0 +1,11 @@
+{
+  "name": "康铜",
+  "colors": [
+    "7A401A",
+    "906C32"
+  ],
+  "ingredient": {
+    "tag": "forge:storage_blocks/constantan"
+  },
+  "inUltimateSingularity": true
+}

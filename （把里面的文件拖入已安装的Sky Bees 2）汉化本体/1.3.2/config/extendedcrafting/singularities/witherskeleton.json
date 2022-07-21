@@ -1,0 +1,11 @@
+{
+  "name": "凋灵骷髅头颅",
+  "colors": [
+    "151515",
+    "383939"
+  ],
+  "ingredient": {
+    "item": "minecraft:wither_skeleton_skull"
+  },
+  "inUltimateSingularity": true
+}

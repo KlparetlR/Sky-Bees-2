@@ -1,0 +1,11 @@
+{
+  "name": "盐巴",
+  "colors": [
+    "9EA294",
+    "A7AA9C"
+  ],
+  "ingredient": {
+    "item": "mekanism:block_salt"
+  },
+  "inUltimateSingularity": true
+}

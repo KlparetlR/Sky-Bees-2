@@ -1,0 +1,11 @@
+{
+  "name": "沥青",
+  "colors": [
+    "0C0A09",
+    "252422"
+  ],
+  "ingredient": {
+    "tag": "forge:storage_blocks/bitumen"
+  },
+  "inUltimateSingularity": true
+}

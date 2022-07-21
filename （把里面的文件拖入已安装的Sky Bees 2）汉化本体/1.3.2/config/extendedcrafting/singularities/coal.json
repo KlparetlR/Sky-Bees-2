@@ -1,0 +1,11 @@
+{
+  "name": "煤",
+  "colors": [
+    "323232",
+    "101015"
+  ],
+  "ingredient": {
+    "item": "minecraft:coal_block"
+  },
+  "inUltimateSingularity": true
+}

@@ -1,0 +1,11 @@
+{
+  "name": "青铜",
+  "colors": [
+    "a87544",
+    "a87544"
+  ],
+  "ingredient": {
+    "tag": "forge:storage_blocks/bronze"
+  },
+  "inUltimateSingularity": true
+}

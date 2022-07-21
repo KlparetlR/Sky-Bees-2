@@ -1,0 +1,11 @@
+{
+  "name": "下界之星",
+  "colors": [
+    "8B9CAF",
+    "999CAF"
+  ],
+  "ingredient": {
+    "item": "extendedcrafting:nether_star_block"
+  },
+  "inUltimateSingularity": true
+}

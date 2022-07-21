@@ -1,0 +1,11 @@
+{
+  "name": "锇",
+  "colors": [
+    "3F4949",
+    "757C83"
+  ],
+  "ingredient": {
+    "tag": "forge:storage_blocks/osmium"
+  },
+  "inUltimateSingularity": true
+}

@@ -1,0 +1,11 @@
+{
+  "name": "大理石",
+  "colors": [
+    "9C9C9C",
+    "D0D0D0"
+  ],
+  "ingredient": {
+    "item": "astralsorcery:marble_raw"
+  },
+  "inUltimateSingularity": true
+}

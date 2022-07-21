@@ -1,0 +1,11 @@
+{
+  "name": "暴雪",
+  "colors": [
+    "3B7ED7",
+    "FCFCFC"
+  ],
+  "ingredient": {
+    "item": "thermal:blizz_rod"
+  },
+  "inUltimateSingularity": true
+}
