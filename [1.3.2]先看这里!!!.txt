@@ -1,4 +1,4 @@
-2022-07-22 17:14
+﻿2022-08-16 09:02
 
                                               ☞极为重要！！！
 Ⅰ.如果创建存档时进不去，可以试试单独安装这个整合包在其他地方，内存至少给4G
@@ -24,7 +24,7 @@ https://github.com/ShaBaiTianCN/Minecraft-Mod-Language-Package-Not-Included-Lang
 
 P.S.一些模组可能i18n和翻译包没有汉化，那就您要自己查翻译。
 
-基础信息：[0.1.0] Sky Bees 2 汉化 1.3.2 by KlparetlR
+基础信息：[1.0.0] Sky Bees 2 汉化 1.3.2 by KlparetlR
 
 GitHub：https://github.com/KlparetlR/Sky-Bees-2
 
