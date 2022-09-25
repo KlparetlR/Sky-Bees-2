@@ -418,5 +418,23 @@
 				item: "thermal:machine_frame"
 			}]
 		}
+		{
+			x: 8.0d
+			y: 2.0d
+			description: ["{image:kubejs:textures/auto_starlight_infuser.png width:200 height:100 align:1}"]
+			dependencies: ["2F45288923E4E77A"]
+			id: "68DB17A8D7F458B8"
+			tasks: [{
+				id: "3E9F731F29E9FDCF"
+				type: "item"
+				item: {
+					id: "custommachinery:custom_machine_item"
+					Count: 1b
+					tag: {
+						machine: "custommachinery:auto_starlight_infuser"
+					}
+				}
+			}]
+		}
 	]
 }
