@@ -1,6 +1,6 @@
-﻿2022-09-25 15:03
+﻿2022-09-30 21:47
 汉化为拖入覆盖汉化形式
-本次更新：1.4.1汉化更新
+本次更新：汉化图片补充
                                               ☞极为重要！！！
 Ⅰ.如果创建存档时进不去，可以试试单独安装这个整合包在其他地方，内存至少给4G。
 无法下载整合包具体文件（拖入安装），可能是网络问题，试试其他的启动器（下面的整合包下载器也可以试试），不要死赖PCL。
@@ -26,7 +26,7 @@ https://github.com/ShaBaiTianCN/Minecraft-Mod-Language-Package-Not-Included-Lang
 
 P.S.一些模组可能i18n和翻译包没有汉化，那就您要自己查翻译。
 
-基础信息：[1.1.0] Sky Bees 2 汉化 1.4.1 by KlparetlR
+基础信息：[1.1.1] Sky Bees 2 汉化 1.4.1 by KlparetlR
 
 GitHub：https://github.com/KlparetlR/Sky-Bees-2
 
@@ -34,6 +34,6 @@ GitHub：https://github.com/KlparetlR/Sky-Bees-2
 
 工程时间：2022-07-20-11:12 / 2022-07-22 17:14
 
-特别鸣谢：安逸菌汉化组 的帮助 
+特别鸣谢：安逸菌汉化组、zizunsi（本次汉化漏的图片）的帮助 
 
 祝您游玩愉快，Thanks！
